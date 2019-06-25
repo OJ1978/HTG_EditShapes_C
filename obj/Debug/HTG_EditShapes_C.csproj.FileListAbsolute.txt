@@ -1,0 +1,13 @@
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\bin\Debug\HTG_EditShapes_C.exe.config
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\bin\Debug\HTG_EditShapes_C.exe
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\bin\Debug\HTG_EditShapes_C.pdb
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\bin\Debug\EditShape.dll
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\bin\Debug\EditShape.pdb
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\obj\Debug\HTG_EditShapes_C.csprojAssemblyReference.cache
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\obj\Debug\HTG_EditShapes_C.Form1.resources
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\obj\Debug\HTG_EditShapes_C.Properties.Resources.resources
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\obj\Debug\HTG_EditShapes_C.csproj.GenerateResource.cache
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\obj\Debug\HTG_EditShapes_C.csproj.CoreCompileInputs.cache
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\obj\Debug\HTG_EditShapes_C.csproj.CopyComplete
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\obj\Debug\HTG_EditShapes_C.exe
+C:\Users\Ockert\Desktop\HTG_EditShapes_C\HTG_EditShapes_C\obj\Debug\HTG_EditShapes_C.pdb
